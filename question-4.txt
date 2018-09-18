@@ -1,0 +1,10 @@
+Write a function such that, given an n by m grid representing a “maze”, along with a starting and ending cell in the maze, returns true if and only if the maze can be completed (that is, there is a path from the start to the end that is not blocked by maze walls). The maze will be passed to your function as an array, with the value in each cell indicating if there is a wall or not (0=no wall; 1=wall). The maze can only be traversed in the cardinal directions, that is up/down/left/right.
+
+	For example, a function signature in pseudo-code might look like:
+		Bool is_maze_traversible(Array maze, Point start, Point end)
+
+	Note: This is not asking you for the shortest possible path, it is just asking whether or not there is any possible path.
+
+What is the algorithmic complexity (in both time and space) of your solution
+
+How would you modify your code if your function were required to return path through the maze (as opposed to just true or false)? You do not need to re-write the code, but please succinctly communicate what you would need to change.
