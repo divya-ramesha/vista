@@ -1,0 +1,12 @@
+
+Basic data manipulation. Please download the following data file, and use it to answer the below questions: 
+https://drive.google.com/open?id=1TId3rvWsjM5_mRp_yMrLFV-Kswe9gHUh
+
+In addition to simply providing the answers, please provide a script or set of scripts which will answer these questions for any data file that is passed in as an argument. Feel free to use any shell or scripting language desired.
+
+1. How many different schools are in the dataset?
+2. Which subject is most frequently studied?
+3. Do any schools have two students with the same name? If so, please list those schools.
+4. List each school, along with the number of student attending it
+5. List each subject, along with the number of students studying it
+6. List each school, along with the most popular subject at that school. The list should be sorted by number of students attending the school
