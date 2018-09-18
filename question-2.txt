@@ -1,0 +1,1 @@
+Write a script to crawl the top 20 articles on cnn.com and nbcnews.com, and grab all the images from those articles
