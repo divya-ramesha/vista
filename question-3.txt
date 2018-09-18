@@ -1,0 +1,2 @@
+Using the images you gathered in question 2, write a script to generate a csv file containing metadata about the images, e.g. image height and width, filename of the image, article URL the image was grabbed from, and date the article is from.
+
